@@ -1,6 +1,6 @@
 # Extended French Keyboard
 
-This is a collections of experimental keyboard layouts. The intent is to keep an overall french layout for typing, with some extra functionalities added in for may Gamer and Developper needs.
+This is a collections of experimental keyboard layouts. The intent is to keep an overall french layout for typing, with some extra functionalities added in for either Gamer and Developper needs.
 
 The source files and binaries are generated using [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
