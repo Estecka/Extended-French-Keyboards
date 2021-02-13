@@ -35,7 +35,7 @@ The `^¨` dead-key now also lets type Accute accents and Grave accents. A Cedill
 | -----------------------:|:-------:|:----------- |
 |             Shift + `²` | `` ` `` | Back-quote / backtick  |
 |             AltGr + `²` | `~` | Tilde |
-|       AltGr + `[space]` | `	` | Tabulation <br/>_Unlike the tab key, this will not select the next field on a page, and thus may force a tabulation to be typed where it would normally be need to be copy-pasted._ |
+|       AltGr + `[space]` | `	` | Tabulation <br/>_Unlike the tab key, this will not select the next field on a page, and thus may force a tabulation to be typed where it would normally need to be copy-pasted._ |
 | Shift + AltGr + `[space]` | ` ` | Non-breaking space, a.k.a. `&nbsp;` |
 |              AltGr + `><` | `«` | Left guillemet      |
 |      Shift + AltGr + `><` | `»` | Right guillemet     |
@@ -51,7 +51,7 @@ The `^¨` dead-key now also lets type Accute accents and Grave accents. A Cedill
 |               AltGr + `I` | `∞` | Infinity             |
 |               AltGr + `C` | `©` | Copyright            |
 |               AltGr + `M` | `™` | Trademark            |
-|               AltGr + `E` | `®` | Registered Trademark |
+|               AltGr + `R` | `®` | Registered Trademark |
 |               AltGr + `Y` | `¥` | Yen                  |
 
 ### Miscellaneous Greek characters
